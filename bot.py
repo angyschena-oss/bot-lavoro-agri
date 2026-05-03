@@ -69,4 +69,4 @@ if c:
     msg += "🏛️ CONCORSI:\n\n" + "\n\n".join(c[:5])
 
 if msg:
-    send(msg)
+    send("🔥 TEST: BOT FUNZIONA")
